@@ -1,0 +1,2 @@
+#  Snowflake_for_Devs,_Data_Scientists_Data Engineers
+Create and manipulate Snowflake's core objects, such as virtual warehouses, databases, schemas, tables, and stages.  Use important Snowflake features and objects, such as time travel, cloning, resources monitors, UDFs, stored procedures, and Snowpark DataFrames.  Understand the basics of Snowflake’s capabilities for data engineering, generative AI, machine learning, and app development.
